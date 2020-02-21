@@ -1,0 +1,3 @@
+Deploying XGBoost Model to Predict Boston Housing Prices with SageMaker
+
+in This project we use Boston Housing dataset to predict the median value of a home in the area of Boston Mass. The model is trained using XGBoost algorithm. The model is deployed using SageMaker.
