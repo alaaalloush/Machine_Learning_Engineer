@@ -28,4 +28,8 @@ It also contains tutorials explaining how to update models in SageMaker without 
 This module contains a project to create a web app performing sentiment analysis on movie reviews. It contains preparing and transforming Data using NLP concepts, train a LSTM neural network using PyTorch in SageMaker and deploy the model for the web app. The project also uses AWS services such as Lambda, IAM roles and API Gateway to access SageMaker endpoint. 
 
 
+* Population Segmentation 
+This module contains a project to train and deploy models using PCA and k-means clustering to group US counties by similarities and differences. It contains visualizing of trained model attributes and interpreting the results.
+
+
 
