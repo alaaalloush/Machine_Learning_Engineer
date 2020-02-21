@@ -1,0 +1,24 @@
+
+visualizing what CNNs learn:
+http://cs231n.github.io/understanding-cnn/
+
+
+Deep Dreams
+https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html 
+https://deepdreamgenerator.com/
+
+
+CNN Architectures:
+AlexNet: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+VGGNet: is trained on ImageNet dataset to distinguish between the thousand different categories that are present in ImageNet. https://arxiv.org/pdf/1409.1556.pdf
+ResNet: https://arxiv.org/pdf/1512.03385v1.pdf
+
+
+Keras for accessing famous CNN architectures
+https://keras.io/applications/
+
+
+Benchmarks for different CNN architectures
+https://github.com/jcjohnson/cnn-benchmarks
+
+
