@@ -19,7 +19,7 @@ This module contains a project to automatically tune XGBoost hyperparameter usin
 It also contains tutorials explaining how to tune hyperparameter of xgboost model to predict Boston housing prices using SageMaker.
 
 
-* Updating a Model with Amazon's SageMaker 
+* Updating a Model in production with Amazon's SageMaker 
 This module contains a project to update XGBoost model to predict the sentiment of a movie. The update is to meet changes in the underlying data used to train the original model. 
 It also contains tutorials explaining how to update models in SageMaker without interrupting service.
 
