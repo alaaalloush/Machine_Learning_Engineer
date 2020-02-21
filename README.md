@@ -44,3 +44,7 @@ This module contains a project to train and deploy a custom PyTorch neural netwo
 This module contains a project to analyze time series data and format it for training a [DeepAR](https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html) algorithm; a forecasting algorithm that utilizes a recurrent neural network. Train a model to predict household energy consumption patterns and evaluate the results.
 
 
+* Plagiarism Detector
+This module contains a project to build an end-to-end plagiarism classification model. It has part for cleaning data, extracting meaningful features, and deploying a plagiarism classifier in SageMaker.
+
+
