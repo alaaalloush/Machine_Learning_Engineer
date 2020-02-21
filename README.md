@@ -40,3 +40,7 @@ This module contains a project to build and deploy a supervised, LinearLearner m
 This module contains a project to train and deploy a custom PyTorch neural network that classifies "moon" data; binary data distributed in moon-like shapes.
 
 
+* Time-Series Forecasting 
+This module contains a project to analyze time series data and format it for training a [DeepAR](https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html) algorithm; a forecasting algorithm that utilizes a recurrent neural network. Train a model to predict household energy consumption patterns and evaluate the results.
+
+
