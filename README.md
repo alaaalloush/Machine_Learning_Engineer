@@ -14,3 +14,7 @@ This module contains a project to deploy a XGBoost model and Sentiment analysis 
 It also contains tutorials explaining how to build and deploy an xgboost model to predict the median value of a home in the area of Boston Mass.
 
 
+* Tuning Hyperparameter with Amazon's SageMaker 
+This module contains a project to automatically tune XGBoost hyperparameter using Amazon's SageMaker to predict the sentiment of a movie. 
+It also contains tutorials explaining how to tune hyperparameter of xgboost model to predict Boston housing prices using SageMaker.
+
