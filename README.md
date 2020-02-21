@@ -24,3 +24,8 @@ This module contains a project to update XGBoost model to predict the sentiment 
 It also contains tutorials explaining how to update models in SageMaker without interrupting service.
 
 
+* Creating a Sentiment Analysis Web App using PyTorch and SageMaker 
+This module contains a project to create a web app performing sentiment analysis on movie reviews. It contains preparing and transforming Data using NLP concepts, train a LSTM neural network using PyTorch in SageMaker and deploy the model for the web app. The project also uses AWS services such as Lambda, IAM roles and API Gateway to access SageMaker endpoint. 
+
+
+
