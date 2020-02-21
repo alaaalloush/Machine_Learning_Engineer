@@ -32,4 +32,7 @@ This module contains a project to create a web app performing sentiment analysis
 This module contains a project to train and deploy models using PCA and k-means clustering to group US counties by similarities and differences. It contains visualizing of trained model attributes and interpreting the results.
 
 
+* Payment Fraud Detection
+This module contains a project to build and deploy a supervised, LinearLearner model in SageMaker. The project shows how to tune a model and handle a case of class imbalance to train a model to detect cases of credit card fraud.
+
 
